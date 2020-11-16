@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ADHD APP3</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logo_image">LOGO IMAGE</string>
+    <string name="addapt">ADDapt</string>
+    <string name="Family" />
+    <string name="click_this_box_to_access_notifications">click this box to access notifications</string>
+    <string name="family">Family</string>
+    <string name="timer">Timer</string>
+    <string name="calendar">Calendar</string>
+    <string name="icon_for_the_notification_button_on_the_home_screen">icon for the notification button on the home screen</string>
+    <string name="icon_for_the_timer_button_on_the_home_screen">icon for the timer button on the home screen</string>
+    <string name="icon_for_the_calendar_button_on_the_home_screen">icon for the calendar button on the home screen</string>
+    <string name="icon_for_the_family_button_on_the_home_screen">icon for the family button on the home screen</string>
+    <string name="click_this_box_to_access_settings">click_this_box_to_access_settings</string>
+    <string name="icon_for_the_settings_button_on_the_home_screen">icon for the settings button on the home screen</string>
+</resources>
