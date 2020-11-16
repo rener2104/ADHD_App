@@ -5,7 +5,8 @@
     android:id="@+id/homeScreen"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/backgrounds">
+    android:background="@drawable/backgrounds"
+    android:focusable="auto">
 
     <ImageButton
         android:id="@+id/notifications_icon_box_home"
